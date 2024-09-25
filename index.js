@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching the Plants 🪴","Checking for new arrivals 📝","Watering some Monsteras 🚿","Autorepairing 🔧","Identifying new plant species 🔎","Having an existential crisis"];
+const statusMessages = ["MILLOW","HOTEL","TESTING","Autorepairing 🔧","Identifying new plant species 🔎","Having an existential crisis"];
 
 
 let currentIndex = 0;
